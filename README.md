@@ -1,0 +1,2 @@
+# statictry
+static code sample
